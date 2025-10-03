@@ -1,3 +1,5 @@
+```markdown
+
 # E-Commerce Frontend
 
 ## Tech Stack
@@ -29,7 +31,10 @@ npm install
 npm run dev
 
 # Packages
+
 @reduxjs/toolkit
 axios
 react-redux
 react-router-dom
+
+```
